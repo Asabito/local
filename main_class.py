@@ -1,2 +1,5 @@
+import main_class
+
 class main():
-    pass
+    def main_process():
+        main_menu = main_class()
